@@ -1,0 +1,24 @@
+body{
+	padding-top:3.5rem;
+	background-image:url(link);
+	background-repeat:no-repeat;
+	font-family:times new roman;
+	font-size:19px;
+}
+
+
+.page-header{
+	font-family:times new roman;
+	text-align:center;
+}
+
+.page-footer{
+	background-color:#222;
+	color:#ccc;
+	padding:60px 0 30px;
+}
+
+.footer-copyright{
+	color:#666;
+	padding:40px 0;
+}
