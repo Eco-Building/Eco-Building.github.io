@@ -7,7 +7,7 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
   font-family:times new roman;
-  font-size:19px;
+  font-size:20px;
 }
 
 
@@ -45,7 +45,7 @@ body {
 
 /* Center align the text within the three columns below the carousel */
 img{
-  width: 70%;
+  width: 80%;
   height: 50%;
   /*background: #777;
   color: #777;*/
